@@ -1,5 +1,5 @@
 [
   {"action": "talk",
-   "text": "You are listening to a Call made with Voice API"
+   "text": "Basha 3aml eih ? , eih el Akhbar y kbeer , kolo tmam "
   }
 ]
